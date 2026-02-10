@@ -1,0 +1,21 @@
+customerCode,firstName,lastName,email,phone,dateOfBirth,country,city,address,postalCode,loyaltyPoints,isActive
+CUST001,Alice,Johnson,alice.johnson@email.com,+1-555-0101,1990-03-15,USA,New York,123 Broadway St,10001,1500,true
+CUST002,Bob,Smith,bob.smith@email.com,+1-555-0102,1985-07-22,USA,Los Angeles,456 Sunset Blvd,90028,800,true
+CUST003,Carol,Williams,carol.williams@email.com,+44-20-7946-0103,1992-11-08,UK,London,78 Baker Street,W1U 6AG,2200,true
+CUST004,David,Brown,david.brown@email.com,+1-555-0104,1988-01-30,USA,Chicago,901 Michigan Ave,60611,350,true
+CUST005,Eva,Martinez,eva.martinez@email.com,+34-91-555-0105,1995-06-17,Spain,Madrid,Calle Mayor 5,28013,1750,true
+CUST006,Frank,Garcia,frank.garcia@email.com,+1-555-0106,1983-09-03,USA,Houston,200 Main St,77002,600,true
+CUST007,Grace,Lee,grace.lee@email.com,+82-2-555-0107,1997-04-25,South Korea,Seoul,123 Gangnam-daero,06100,3000,true
+CUST008,Henry,Wilson,henry.wilson@email.com,+1-555-0108,1980-12-12,USA,Phoenix,789 Desert Rd,85001,900,true
+CUST009,Isla,Anderson,isla.anderson@email.com,+61-2-555-0109,1993-08-19,Australia,Sydney,45 George St,2000,1200,true
+CUST010,James,Taylor,james.taylor@email.com,+1-555-0110,1987-02-28,USA,Philadelphia,321 Broad St,19102,450,true
+CUST011,Kate,Thomas,kate.thomas@email.com,+1-555-0111,1991-05-14,USA,San Antonio,654 River Walk,78205,2800,true
+CUST012,Liam,Jackson,liam.jackson@email.com,+1-555-0112,1986-10-07,USA,San Diego,987 Pacific Hwy,92101,700,false
+CUST013,Mia,White,mia.white@email.com,+49-89-555-0113,1994-03-31,Germany,Munich,Marienplatz 1,80331,1650,true
+CUST014,Noah,Harris,noah.harris@email.com,+1-555-0114,1982-07-16,USA,Dallas,147 Commerce St,75201,400,true
+CUST015,Olivia,Martin,olivia.martin@email.com,+33-1-555-0115,1996-01-23,France,Paris,10 Rue de Rivoli,75001,5000,true
+CUST016,Paul,Thompson,paul.thompson@email.com,+1-555-0116,1989-11-04,USA,San Jose,258 Market St,95101,1100,true
+CUST017,Quinn,Garcia,quinn.garcia@email.com,+52-55-555-0117,1993-06-09,Mexico,Mexico City,Av Reforma 100,06600,850,true
+CUST018,Rachel,Martinez,rachel.martinez@email.com,+1-555-0118,1984-08-27,USA,Austin,369 Congress Ave,78701,1900,true
+CUST019,Sam,Robinson,sam.robinson@email.com,+1-555-0119,1990-04-13,USA,Jacksonville,741 Duval St,32202,300,true
+CUST020,Tina,Clark,tina.clark@email.com,+1-555-0120,1998-12-01,USA,Columbus,852 High St,43215,2500,true

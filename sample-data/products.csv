@@ -1,0 +1,21 @@
+productCode,productName,description,categoryCode,unitPrice,stockQuantity,weightKg,brand,sku,isActive
+PROD001,MacBook Pro 14,14-inch laptop with M3 chip 16GB RAM 512GB SSD,LAPTOPS,1999.99,50,1.600,Apple,SKU-MBP14-M3,true
+PROD002,Dell XPS 15,15.6-inch OLED 4K laptop Intel i9 32GB RAM,LAPTOPS,2299.99,35,1.860,Dell,SKU-XPS15-I9,true
+PROD003,iPhone 15 Pro,6.1-inch Super Retina XDR display A17 Pro chip 256GB,PHONES,1099.99,150,0.187,Apple,SKU-IP15P-256,true
+PROD004,Samsung Galaxy S24,6.2-inch Dynamic AMOLED 256GB Android flagship,PHONES,799.99,200,0.167,Samsung,SKU-SGS24-256,true
+PROD005,iPad Air 5,10.9-inch Liquid Retina M1 chip WiFi 64GB,TABLETS,599.99,80,0.461,Apple,SKU-IPAD-AIR5,true
+PROD006,Levi 501 Original Jeans,Classic straight fit denim jeans blue wash,MENS,79.99,300,0.600,Levi's,SKU-LEV501-32,true
+PROD007,Nike Air Max 270,Men's running shoes mesh upper Air unit,MENS,149.99,250,0.900,Nike,SKU-NAM270-10,true
+PROD008,Zara Floral Dress,Women's midi floral print wrap dress,WOMENS,69.99,180,0.350,Zara,SKU-ZFD-M,true
+PROD009,Adidas Ultraboost 23,Women's responsive running shoe,WOMENS,189.99,120,0.800,Adidas,SKU-AUB23-7,true
+PROD010,The Great Gatsby,F. Scott Fitzgerald classic novel paperback,FICTION,12.99,500,0.200,Scribner,,true
+PROD011,Atomic Habits,Practical guide to building good habits by James Clear,NONFICTION,18.99,400,0.300,Avery,,true
+PROD012,IKEA KALLAX Shelf,4x4 cube storage shelving unit white,FURNITURE,229.99,40,33.000,IKEA,SKU-KLX-44W,true
+PROD013,KitchenAid Stand Mixer,5-quart tilt-head stand mixer Empire Red,KITCHENWARE,449.99,25,11.340,KitchenAid,SKU-KSM150-ER,true
+PROD014,Bowflex Adjustable Dumbbells,Select Tech 552 adjustable 5-52.5 lbs each,FITNESS,399.99,60,24.000,Bowflex,SKU-BFX552,true
+PROD015,Sony WH-1000XM5,Industry-leading wireless noise cancelling headphones,ELECTRONICS,349.99,100,0.250,Sony,SKU-WH1000XM5,true
+PROD016,Lenovo ThinkPad X1 Carbon,14-inch business laptop Intel i7 16GB RAM,LAPTOPS,1649.99,30,1.120,Lenovo,SKU-LTP-X1C,true
+PROD017,Google Pixel 8,6.2-inch OLED 256GB Google Tensor G3,PHONES,699.99,90,0.187,Google,SKU-GP8-256,true
+PROD018,Samsung Galaxy Tab S9,11-inch AMOLED tablet 256GB WiFi S Pen included,TABLETS,799.99,45,0.498,Samsung,SKU-SGT-S9,true
+PROD019,Yoga Mat Premium,6mm non-slip exercise mat with carrying strap,FITNESS,49.99,350,0.900,Liforme,SKU-YOGA-6MM,true
+PROD020,Instant Pot Duo 7-in-1,7-in-1 electric pressure cooker 6 quart,KITCHENWARE,89.99,200,5.000,Instant Pot,SKU-IPD60,true

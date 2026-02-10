@@ -1,0 +1,74 @@
+{
+  "data": [
+    {
+      "customerCode": "CUST021",
+      "firstName": "Uma",
+      "lastName": "Patel",
+      "email": "uma.patel@email.com",
+      "phone": "+91-98765-43210",
+      "dateOfBirth": "1992-05-18",
+      "country": "India",
+      "city": "Mumbai",
+      "address": "42 Marine Drive",
+      "postalCode": "400020",
+      "loyaltyPoints": 4200,
+      "isActive": true
+    },
+    {
+      "customerCode": "CUST022",
+      "firstName": "Victor",
+      "lastName": "Nguyen",
+      "email": "victor.nguyen@email.com",
+      "phone": "+84-24-555-0122",
+      "dateOfBirth": "1988-09-22",
+      "country": "Vietnam",
+      "city": "Hanoi",
+      "address": "15 Hoan Kiem Street",
+      "postalCode": "10000",
+      "loyaltyPoints": 700,
+      "isActive": true
+    },
+    {
+      "customerCode": "CUST023",
+      "firstName": "Wendy",
+      "lastName": "Chen",
+      "email": "wendy.chen@email.com",
+      "phone": "+86-21-555-0123",
+      "dateOfBirth": "1995-02-14",
+      "country": "China",
+      "city": "Shanghai",
+      "address": "88 Nanjing Road",
+      "postalCode": "200001",
+      "loyaltyPoints": 3100,
+      "isActive": true
+    },
+    {
+      "customerCode": "CUST024",
+      "firstName": "Xander",
+      "lastName": "Petrov",
+      "email": "xander.petrov@email.com",
+      "phone": "+7-495-555-0124",
+      "dateOfBirth": "1985-11-30",
+      "country": "Russia",
+      "city": "Moscow",
+      "address": "10 Arbat Street",
+      "postalCode": "119002",
+      "loyaltyPoints": 950,
+      "isActive": false
+    },
+    {
+      "customerCode": "CUST025",
+      "firstName": "Yara",
+      "lastName": "Khalil",
+      "email": "yara.khalil@email.com",
+      "phone": "+20-2-555-0125",
+      "dateOfBirth": "1997-07-04",
+      "country": "Egypt",
+      "city": "Cairo",
+      "address": "5 Tahrir Square",
+      "postalCode": "11511",
+      "loyaltyPoints": 2300,
+      "isActive": true
+    }
+  ]
+}

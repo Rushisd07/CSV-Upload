@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "productCode": "PROD021",
+      "productName": "Microsoft Surface Pro 9",
+      "description": "2-in-1 tablet and laptop 13-inch Intel i5 16GB 256GB",
+      "categoryCode": "TABLETS",
+      "unitPrice": 1299.99,
+      "stockQuantity": 40,
+      "weightKg": 0.879,
+      "brand": "Microsoft",
+      "sku": "SKU-MSP9-I5",
+      "isActive": true
+    },
+    {
+      "productCode": "PROD022",
+      "productName": "Canon EOS R50",
+      "description": "Mirrorless camera 24.2MP APS-C sensor 4K video",
+      "categoryCode": "ELECTRONICS",
+      "unitPrice": 679.99,
+      "stockQuantity": 55,
+      "weightKg": 0.375,
+      "brand": "Canon",
+      "sku": "SKU-CEOSR50",
+      "isActive": true
+    },
+    {
+      "productCode": "PROD023",
+      "productName": "Dyson V15 Detect",
+      "description": "Cordless vacuum with laser dust detection HEPA filter",
+      "categoryCode": "HOME",
+      "unitPrice": 749.99,
+      "stockQuantity": 30,
+      "weightKg": 3.100,
+      "brand": "Dyson",
+      "sku": "SKU-DV15D",
+      "isActive": true
+    },
+    {
+      "productCode": "PROD024",
+      "productName": "Harry Potter Complete Box Set",
+      "description": "All 7 Harry Potter books by J.K. Rowling paperback collection",
+      "categoryCode": "FICTION",
+      "unitPrice": 89.99,
+      "stockQuantity": 150,
+      "weightKg": 2.400,
+      "brand": "Bloomsbury",
+      "sku": null,
+      "isActive": true
+    },
+    {
+      "productCode": "PROD025",
+      "productName": "Peloton Bike+",
+      "description": "Connected indoor exercise bike 24-inch rotating touchscreen",
+      "categoryCode": "FITNESS",
+      "unitPrice": 2495.00,
+      "stockQuantity": 15,
+      "weightKg": 72.600,
+      "brand": "Peloton",
+      "sku": "SKU-PEL-BIKE",
+      "isActive": true
+    }
+  ]
+}
