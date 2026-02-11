@@ -16,15 +16,9 @@ import java.nio.charset.StandardCharsets;
 import java.util.*;
 import java.util.function.Consumer;
 
-/**
- * Streaming CSV parser - reads chunk by chunk to avoid full in-memory loading.
- */
 @Component
 public class CsvStreamParser {
 
-    /**
-     * Stream customer rows from input stream - batch by batch.
-     */
     public void streamCustomers(InputStream inputStream,
                                 int batchSize,
                                 Consumer<List<CustomerCsvRow>> batchConsumer,
@@ -77,9 +71,6 @@ public class CsvStreamParser {
         }
     }
 
-    /**
-     * Stream product rows from input stream - batch by batch.
-     */
     public void streamProducts(InputStream inputStream,
                                int batchSize,
                                Consumer<List<ProductCsvRow>> batchConsumer,
@@ -130,9 +121,6 @@ public class CsvStreamParser {
         }
     }
 
-    /**
-     * Stream order rows from input stream - batch by batch.
-     */
     public void streamOrders(InputStream inputStream,
                              int batchSize,
                              Consumer<List<OrderCsvRow>> batchConsumer,

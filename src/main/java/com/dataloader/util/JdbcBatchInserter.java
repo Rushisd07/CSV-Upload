@@ -9,10 +9,6 @@ import java.sql.PreparedStatement;
 import java.util.List;
 import java.util.function.BiConsumer;
 
-/**
- * Utility for JDBC batch inserts - bypasses JPA overhead for bulk operations.
- * Uses Spring JdbcTemplate.batchUpdate for best performance.
- */
 @Component
 @RequiredArgsConstructor
 @Slf4j
@@ -56,11 +52,6 @@ public class JdbcBatchInserter {
         return sumArray(counts);
     }
 
-    //    private int sumArray(int[][] counts) {
-//        int sum = 0;
-//        for (int c : counts) sum += (c >= 0 ? c : 0);
-//        return sum;
-//    }
     private int sumArray(int[][] counts) {
         int sum = 0;
         for (int[] batch : counts) {

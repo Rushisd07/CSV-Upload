@@ -14,20 +14,11 @@ import org.springframework.data.domain.PageRequest;
 import org.springframework.data.domain.Pageable;
 import org.springframework.data.domain.Sort;
 import org.springframework.http.ResponseEntity;
-import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RequestParam;
-import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.bind.annotation.*;
 
 import java.util.Map;
 
-/**
- * Read-only endpoints for querying loaded data.
- *
- * GET /api/v1/data/customers?page=0&size=20 GET
- * /api/v1/data/products?page=0&size=20 GET /api/v1/data/orders?page=0&size=20
- * GET /api/v1/data/categories GET /api/v1/data/summary
- */
+@CrossOrigin(origins = "*")
 @RestController
 @RequestMapping("/api/v1/data")
 @RequiredArgsConstructor

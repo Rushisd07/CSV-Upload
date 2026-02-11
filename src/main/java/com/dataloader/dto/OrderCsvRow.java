@@ -2,10 +2,6 @@ package com.dataloader.dto;
 
 import lombok.*;
 
-/**
- * Flat CSV row representation for order upload.
- * Includes order + line item in one flat row.
- */
 @Getter
 @Setter
 @NoArgsConstructor

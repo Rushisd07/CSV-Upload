@@ -2,10 +2,6 @@ package com.dataloader.dto;
 
 import lombok.*;
 
-/**
- * Flat CSV row representation for customer upload.
- * Maps directly to CSV column headers.
- */
 @Getter
 @Setter
 @NoArgsConstructor

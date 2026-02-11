@@ -18,14 +18,7 @@ import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.UUID;
 
-/**
- * REST API for uploading large CSV/JSON files.
- *
- * Endpoints:
- *   POST /api/v1/upload/csv?dataType=CUSTOMERS|PRODUCTS|ORDERS
- *   POST /api/v1/upload/json?dataType=CUSTOMERS|PRODUCTS|ORDERS
- *   GET  /api/v1/upload/jobs/{jobId}
- */
+@CrossOrigin(origins = "*")
 @RestController
 @RequestMapping("/api/v1/upload")
 @Slf4j
